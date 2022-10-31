@@ -3,86 +3,62 @@
 
 {
          "name": "DTAC-VIP-001",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B01%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/AUTO-PROXY-01.ovpn"
       },
 {
          "name": "DTAC-VIP-002",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B02%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-001.ovpn"
       },
 {
          "name": "DTAC-VIP-003",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B03%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-002.ovpn"
       },
 {
          "name": "DTAC-VIP-004",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B04%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/PROXY-AUTO-000.ovpn"
       },
 {
          "name": "DTAC-VIP-005",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B05%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-003.ovpn"
       },
 {
          "name": "DTAC-VIP-006",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B06%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-004.ovpn"
       },
 {
          "name": "DTAC-VIP-007",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B07%5D.ovpn"
-      },
-{
-         "name": "DTAC-VIP-008",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B08%5D.ovpn"
-      },
-{
-         "name": "DTAC-VIP-009",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B09%5D.ovpn"
-      },
-{
-         "name": "DTAC-VIP-010",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B10%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-005.ovpn"
       },
 {
          "name": "TRUE-VIP-001",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B01%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/AUTO-PROXY-01.ovpn"
       },
 {
          "name": "TRUE-VIP-002",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B02%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-001.ovpn"
       },
 {
          "name": "TRUE-VIP-003",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B03%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-002.ovpn"
       },
 {
          "name": "TRUE-VIP-004",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B04%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/PROXY-AUTO-000.ovpn"
       },
 {
          "name": "TRUE-VIP-005",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B05%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-003.ovpn"
       },
 {
          "name": "TRUE-VIP-006",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B06%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-004.ovpn"
       },
 {
          "name": "TRUE-VIP-007",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B07%5D.ovpn"
-      },
-{
-         "name": "TRUE-VIP-008",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B08%5D.ovpn"
-      },
-{
-         "name": "TRUE-VIP-009",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B09%5D.ovpn"
-      },
-{
-         "name": "TRUE-VIP-010",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/MAUNG-VIP-VPN/main/DTAC%26TRUE-VIP%5B10%5D.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC-TRUE-005.ovpn"
       }
 ],
 "message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 1\n\n•Config By:FreeNetMgMg ",
    "title":"Add Dtac&True auto update file" ,
-   "version": 4
+   "version": 5
 }
